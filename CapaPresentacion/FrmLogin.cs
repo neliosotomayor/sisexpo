@@ -156,7 +156,9 @@ namespace CapaPresentacion
         private void bfbIngresar_Click(object sender, EventArgs e)
         {
             //Se creó la función AccesoSistema para poder hacer la validación en cualquier momento
+            MessageBox.Show("Mensaje de prueba 01");
             AccesoSistema();
+            MessageBox.Show("Mensaje de prueba 02");
         }
 
         private void pnlCabecera_MouseMove(object sender, MouseEventArgs e)
