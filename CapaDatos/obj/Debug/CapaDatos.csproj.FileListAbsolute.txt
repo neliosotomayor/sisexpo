@@ -1,0 +1,56 @@
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Transporte\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Transporte\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Transporte\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Transporte\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Transporte\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Transporte\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Transporte\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Vehículos\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Vehículos\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Vehículos\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Vehículos\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Vehículos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Vehículos\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Vehículos\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Exportaciones\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Exportaciones\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Exportaciones\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Exportaciones\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\SISEXPO\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\SISEXPO\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\SISEXPO\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos\SISEXPO\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\SISEXPO\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos\SISEXPO\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\SISEXPO\CapaDatos\obj\Debug\CapaDatos.pdb

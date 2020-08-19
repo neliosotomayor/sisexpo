@@ -1,0 +1,36 @@
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Transporte\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Transporte\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Transporte\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Transporte\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Vehículos\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Vehículos\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Vehículos\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Vehículos\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Exportaciones\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Exportaciones\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\SISEXPO\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyectos\SISEXPO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\SISEXPO\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyectos\SISEXPO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Proyectos\SISEXPO\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache

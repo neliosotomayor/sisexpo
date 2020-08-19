@@ -1,0 +1,970 @@
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaDocumentos.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiposDocumento.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrioridades.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstados.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAreas.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcciones.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.exe.licenses
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaDocumentos.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiposDocumento.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrioridades.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstados.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAreas.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcciones.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaPresentacion\obj\Debug\CapaPresentacion.exe.licenses
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaDocumentos.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiposDocumento.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrioridades.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstados.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAreas.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcciones.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.exe.licenses
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaDocumentos.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiposDocumento.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrioridades.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstados.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAreas.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcciones.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.exe.licenses
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaMantenimientos.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaSOAT.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaIncidencias.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaCombustible.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBancos.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegMantenimiento.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegCombustible.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegLeasing.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegIncidencias.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTalleres.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmChoferes.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculos.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguros.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculosModelos.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculosMarcas.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Combustible.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Incidencias.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Mantenimientos.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_SOAT.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Vehiculos.resources
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.exe.licenses
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyectos\Sistema de Transporte\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\SisVehiculos.exe.config
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\SisVehiculos.exe.manifest
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\SisVehiculos.application
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\SisVehiculos.exe
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\SisVehiculos.pdb
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaMantenimientos.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaSOAT.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaIncidencias.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaCombustible.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBancos.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegMantenimiento.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegCombustible.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegLeasing.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegIncidencias.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTalleres.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmChoferes.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculos.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguros.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculosModelos.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVehiculosMarcas.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Combustible.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Incidencias.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Mantenimientos.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_SOAT.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Vehiculos.resources
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\SisVehiculos.exe.licenses
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\SisVehiculos.TrustInfo.xml
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\SisVehiculos.exe.manifest
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\SisVehiculos.application
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\SisVehiculos.exe
+D:\Proyectos\Sistema de Vehículos\CapaPresentacion\obj\Debug\SisVehiculos.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\SISEXPO.exe.config
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\SISEXPO.exe.manifest
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\SISEXPO.application
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\SISEXPO.exe
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\SISEXPO.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaMantenimientos.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaSOAT.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaIncidencias.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaCombustible.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOperadores.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.Mantenimiento.Formulario.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBancos.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegNotasDeCredito.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegAbonos.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegCombustible.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegExportaciones.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductoPresentacion.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNotaCreditoTipo.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPuertos.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Combustible.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Incidencias.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Mantenimientos.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_SOAT.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Vehiculos.resources
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\SISEXPO.exe.licenses
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\SISEXPO.TrustInfo.xml
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\SISEXPO.exe.manifest
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\SISEXPO.application
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\SISEXPO.exe
+D:\Proyectos\Sistema de Exportaciones\CapaPresentacion\obj\Debug\SISEXPO.pdb
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\SISEXPO.exe.config
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\SISEXPO.exe.manifest
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\SISEXPO.application
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\SISEXPO.exe
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\SISEXPO.pdb
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaExpo.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaSOAT.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConsultaExportaciones.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOperadores.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBancos.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAeropuertos.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegNotasDeCredito.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegAbonos.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegExportaciones.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductoPresentacion.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNotaCreditoTipo.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPuertos.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Combustible.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Incidencias.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Mantenimientos.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_SOAT.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRpt_Vehiculos.resources
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\SISEXPO.exe.licenses
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\SISEXPO.TrustInfo.xml
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\SISEXPO.exe.manifest
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\SISEXPO.application
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\SISEXPO.exe
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\SISEXPO.pdb
+D:\Proyectos\SISEXPO\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDashboard.resources
+D:\Proyectos\SISEXPO - copia\CapaPresentacion\bin\Debug\SISEXPO.exe.config
+D:\Proyectos\SISEXPO - copia\CapaPresentacion\obj\Debug\SISEXPO.exe
+D:\Proyectos\SISEXPO - copia\CapaPresentacion\obj\Debug\SISEXPO.pdb

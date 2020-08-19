@@ -1,0 +1,72 @@
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Nelio\Documents\Visual Studio 2015\Projects\Sistema de Tramite Documentario\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Tramite Documentario\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Control Vehiculos\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos - Pruebas\Sistema de Transporte\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Transporte\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Transporte\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Transporte\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Transporte\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Transporte\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Transporte\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Transporte\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Transporte\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Transporte\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Vehículos\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos\Sistema de Exportaciones\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos\SISEXPO\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos\SISEXPO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos\SISEXPO\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos\SISEXPO\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos\SISEXPO\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos\SISEXPO\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.pdb
