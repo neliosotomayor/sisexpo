@@ -54,3 +54,10 @@ D:\Proyectos\SISEXPO\CapaDatos\bin\Debug\CapaEntidad.pdb
 D:\Proyectos\SISEXPO\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 D:\Proyectos\SISEXPO\CapaDatos\obj\Debug\CapaDatos.dll
 D:\Proyectos\SISEXPO\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos - Git\SISEXPO\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos - Git\SISEXPO\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Git\SISEXPO\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Git\SISEXPO\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Git\SISEXPO\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos - Git\SISEXPO\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos - Git\SISEXPO\CapaDatos\obj\Debug\CapaDatos.pdb

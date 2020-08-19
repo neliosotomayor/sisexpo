@@ -155,6 +155,7 @@ namespace CapaPresentacion
 
         private void bfbIngresar_Click(object sender, EventArgs e)
         {
+            //Se creó la función AccesoSistema para poder hacer la validación en cualquier momento
             AccesoSistema();
         }
 

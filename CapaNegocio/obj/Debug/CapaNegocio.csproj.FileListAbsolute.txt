@@ -70,3 +70,12 @@ D:\Proyectos\SISEXPO\CapaNegocio\bin\Debug\CapaEntidad.pdb
 D:\Proyectos\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
 D:\Proyectos\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\Proyectos\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyectos - Git\SISEXPO\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyectos - Git\SISEXPO\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyectos - Git\SISEXPO\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyectos - Git\SISEXPO\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyectos - Git\SISEXPO\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyectos - Git\SISEXPO\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyectos - Git\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Proyectos - Git\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyectos - Git\SISEXPO\CapaNegocio\obj\Debug\CapaNegocio.pdb
